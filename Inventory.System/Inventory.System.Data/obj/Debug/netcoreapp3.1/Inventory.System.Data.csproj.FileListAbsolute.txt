@@ -1,0 +1,12 @@
+C:\Users\randolf.segubre\Desktop\FullStack-Projects\RandolfSegubre.Inventory\Inventory.System\Inventory.System.Data\bin\Debug\netcoreapp3.1\Inventory.System.Data.deps.json
+C:\Users\randolf.segubre\Desktop\FullStack-Projects\RandolfSegubre.Inventory\Inventory.System\Inventory.System.Data\bin\Debug\netcoreapp3.1\Inventory.System.Data.runtimeconfig.json
+C:\Users\randolf.segubre\Desktop\FullStack-Projects\RandolfSegubre.Inventory\Inventory.System\Inventory.System.Data\bin\Debug\netcoreapp3.1\Inventory.System.Data.runtimeconfig.dev.json
+C:\Users\randolf.segubre\Desktop\FullStack-Projects\RandolfSegubre.Inventory\Inventory.System\Inventory.System.Data\bin\Debug\netcoreapp3.1\Inventory.System.Data.dll
+C:\Users\randolf.segubre\Desktop\FullStack-Projects\RandolfSegubre.Inventory\Inventory.System\Inventory.System.Data\bin\Debug\netcoreapp3.1\Inventory.System.Data.pdb
+C:\Users\randolf.segubre\Desktop\FullStack-Projects\RandolfSegubre.Inventory\Inventory.System\Inventory.System.Data\obj\Debug\netcoreapp3.1\Inventory.System.Data.csprojAssemblyReference.cache
+C:\Users\randolf.segubre\Desktop\FullStack-Projects\RandolfSegubre.Inventory\Inventory.System\Inventory.System.Data\obj\Debug\netcoreapp3.1\Inventory.System.Data.AssemblyInfoInputs.cache
+C:\Users\randolf.segubre\Desktop\FullStack-Projects\RandolfSegubre.Inventory\Inventory.System\Inventory.System.Data\obj\Debug\netcoreapp3.1\Inventory.System.Data.AssemblyInfo.cs
+C:\Users\randolf.segubre\Desktop\FullStack-Projects\RandolfSegubre.Inventory\Inventory.System\Inventory.System.Data\obj\Debug\netcoreapp3.1\Inventory.System.Data.csproj.CoreCompileInputs.cache
+C:\Users\randolf.segubre\Desktop\FullStack-Projects\RandolfSegubre.Inventory\Inventory.System\Inventory.System.Data\obj\Debug\netcoreapp3.1\Inventory.System.Data.dll
+C:\Users\randolf.segubre\Desktop\FullStack-Projects\RandolfSegubre.Inventory\Inventory.System\Inventory.System.Data\obj\Debug\netcoreapp3.1\Inventory.System.Data.pdb
+C:\Users\randolf.segubre\Desktop\FullStack-Projects\RandolfSegubre.Inventory\Inventory.System\Inventory.System.Data\obj\Debug\netcoreapp3.1\Inventory.System.Data.genruntimeconfig.cache
