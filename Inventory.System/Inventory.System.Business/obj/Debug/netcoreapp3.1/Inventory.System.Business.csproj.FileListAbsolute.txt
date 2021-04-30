@@ -1,9 +1,0 @@
-C:\Users\randolf.segubre\Desktop\FullStack-Projects\RandolfSegubre.Inventory\Inventory.System\Inventory.System.Business\bin\Debug\netcoreapp3.1\Inventory.System.Business.deps.json
-C:\Users\randolf.segubre\Desktop\FullStack-Projects\RandolfSegubre.Inventory\Inventory.System\Inventory.System.Business\bin\Debug\netcoreapp3.1\Inventory.System.Business.dll
-C:\Users\randolf.segubre\Desktop\FullStack-Projects\RandolfSegubre.Inventory\Inventory.System\Inventory.System.Business\bin\Debug\netcoreapp3.1\Inventory.System.Business.pdb
-C:\Users\randolf.segubre\Desktop\FullStack-Projects\RandolfSegubre.Inventory\Inventory.System\Inventory.System.Business\obj\Debug\netcoreapp3.1\Inventory.System.Business.csprojAssemblyReference.cache
-C:\Users\randolf.segubre\Desktop\FullStack-Projects\RandolfSegubre.Inventory\Inventory.System\Inventory.System.Business\obj\Debug\netcoreapp3.1\Inventory.System.Business.AssemblyInfoInputs.cache
-C:\Users\randolf.segubre\Desktop\FullStack-Projects\RandolfSegubre.Inventory\Inventory.System\Inventory.System.Business\obj\Debug\netcoreapp3.1\Inventory.System.Business.AssemblyInfo.cs
-C:\Users\randolf.segubre\Desktop\FullStack-Projects\RandolfSegubre.Inventory\Inventory.System\Inventory.System.Business\obj\Debug\netcoreapp3.1\Inventory.System.Business.csproj.CoreCompileInputs.cache
-C:\Users\randolf.segubre\Desktop\FullStack-Projects\RandolfSegubre.Inventory\Inventory.System\Inventory.System.Business\obj\Debug\netcoreapp3.1\Inventory.System.Business.dll
-C:\Users\randolf.segubre\Desktop\FullStack-Projects\RandolfSegubre.Inventory\Inventory.System\Inventory.System.Business\obj\Debug\netcoreapp3.1\Inventory.System.Business.pdb
