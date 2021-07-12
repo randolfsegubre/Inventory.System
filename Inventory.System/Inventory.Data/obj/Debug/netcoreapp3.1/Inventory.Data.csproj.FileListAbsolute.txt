@@ -1,0 +1,9 @@
+C:\Users\randolf.segubre\Desktop\Inventory.System-master\Inventory.System\Inventory.System\Inventory.Data\bin\Debug\netcoreapp3.1\Inventory.Data.deps.json
+C:\Users\randolf.segubre\Desktop\Inventory.System-master\Inventory.System\Inventory.System\Inventory.Data\bin\Debug\netcoreapp3.1\Inventory.Data.dll
+C:\Users\randolf.segubre\Desktop\Inventory.System-master\Inventory.System\Inventory.System\Inventory.Data\bin\Debug\netcoreapp3.1\Inventory.Data.pdb
+C:\Users\randolf.segubre\Desktop\Inventory.System-master\Inventory.System\Inventory.System\Inventory.Data\obj\Debug\netcoreapp3.1\Inventory.Data.csprojAssemblyReference.cache
+C:\Users\randolf.segubre\Desktop\Inventory.System-master\Inventory.System\Inventory.System\Inventory.Data\obj\Debug\netcoreapp3.1\Inventory.Data.AssemblyInfoInputs.cache
+C:\Users\randolf.segubre\Desktop\Inventory.System-master\Inventory.System\Inventory.System\Inventory.Data\obj\Debug\netcoreapp3.1\Inventory.Data.AssemblyInfo.cs
+C:\Users\randolf.segubre\Desktop\Inventory.System-master\Inventory.System\Inventory.System\Inventory.Data\obj\Debug\netcoreapp3.1\Inventory.Data.csproj.CoreCompileInputs.cache
+C:\Users\randolf.segubre\Desktop\Inventory.System-master\Inventory.System\Inventory.System\Inventory.Data\obj\Debug\netcoreapp3.1\Inventory.Data.dll
+C:\Users\randolf.segubre\Desktop\Inventory.System-master\Inventory.System\Inventory.System\Inventory.Data\obj\Debug\netcoreapp3.1\Inventory.Data.pdb
